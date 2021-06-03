@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Majesties message, brought by Captain Titus to the Parliament on Munday October 2. 1648. of the concessions of the treaty: delivered to the Parliaments commissioners at New-port, Septemb. 29. And being by them refused, was sent by His Majesty to his two Houses of Parliament at Westminster, and read in both Houses, Octob. 2. 1648 and the answer of both Houses of Parliament to the said message from His Majesty.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78877</idno><idno type="EEBO-CITATION">99864639</idno>
+  <idno type="VID">116871</idno>
+  <idno type="EEBO-PROQUEST">2240905359</idno>
+  
+            <idno type="STC">Wing C2429</idno>
+            <idno type="STC">Thomason E465_32</idno>
+            <idno type="STC">ESTC R205208</idno>
+            <idno type="PROQUEST">99864639</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864639e"/>
+            <note>(EEBO-TCP ; phase 2, no. A78877)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116871)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E465[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Majesties message, brought by Captain Titus to the Parliament on Munday October 2. 1648. of the concessions of the treaty: delivered to the Parliaments commissioners at New-port, Septemb. 29. And being by them refused, was sent by His Majesty to his two Houses of Parliament at Westminster, and read in both Houses, Octob. 2. 1648 and the answer of both Houses of Parliament to the said message from His Majesty.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], [6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Ibbitson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] 4".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116871:1"/>
+            <p>
+               <hi>THE</hi> KINGS MAJESTIES MESS AGE, Brought by Captain TITUS to the Parlia<g ref="char:EOLhyphen"/>ment <hi>on Munday October</hi> 2. 1648.</p>
+            <p>Of the Concessions of the Treaty:</p>
+            <p>Delivered to the Parliaments Commissioners at <hi>New-port, Septemb.</hi> 29.</p>
+            <p>And being by them refused, was sent by His <hi>Majesty to His two Houses of Parliament at</hi> West-minster, and Read in both Houses, <hi>Octob.</hi> 2. 1648</p>
+            <p>And the Answer of both Houses of Parlia<g ref="char:EOLhyphen"/>ment <hi>to the said Message from His Majesty.</hi>
+            </p>
+            <figure>
+               <head>C R</head>
+               <q xml:lang="frm">DIEV ET MON DROIT</q>
+               <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>royal blazon surmounted by a crown and flanked by the English lion on one side and the Scottish unicorn on the other</figDesc>
+            </figure>
+            <p>
+               <hi>London</hi> printed by <hi>Robert Ibbitson.</hi> 1648. <add>8<seg rend="sup">ber</seg> 4</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:116871:2"/>
+            <head>The <hi>Kings</hi> Majesties Message brought by Captaine <hi>Titus</hi> to the Parliament on Munday, <hi>October</hi> 2. 1648.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Is Majesty did use many earnest endeavours for a Personall Treaty, which He hoped might have been obtained at West<g ref="char:EOLhyphen"/>minster, between Him and His two Houses of Parliament immediately; yet they having made choice of this way by you their Commissioners, His Majesty did gladly and cheer<g ref="char:EOLhyphen"/>fully accept thereof in this place, as a fit meanes to begin a Treaty for Peace, which might put an end to his owne sad condition, and the miseries of His Kingdome; For an entrance whereunto. His Majesty hath already expressed His consent to the first Proposition: But finding you are limited by Instructions which you have no Warrant to Communicate unto Him, And having cause by your Papers of the 20 of this present to beleeve, that you have no power to omit or alter any thing, though He shall give you such reasons as may satisfie you so to doe, without transmitting the Papers to the two Houses at a far distance, where His Majesties reasons, expressions, and offers upon Debate cannot be fully represented; and from whence their An<g ref="char:EOLhyphen"/>swers cannot be returned without much waste of the time allotted for the Treaty heere: And having lately received another Paper concerning the Church, containing in it selfe many particulars of great importance, and re<g ref="char:EOLhyphen"/>ferring to divers Ordinances; Articles of Religion, and other things (11 or 12 in number) of great length, and some of them very new, and never before presented to his Majesty: The due consideration whereof will take up much time, and require His Majesties presence with his two Houses before a full resolution can well be had in matters of so high consequence; To the end therefore that the good worke now in hand may (by Gods blessing) proceed more speedily and effectually to an happy Conclusion; And that His two Houses of Parliament may at present have further security, and an earnest of future satisfaction: His Majesty upon Consideration had of yours, makes these Propositions following:</p>
+            <div type="part">
+               <head>Concerning the Church.</head>
+               <p>
+                  <hi>HIS Majesty will consent that the calling and sitting of the Assembly of Di<g ref="char:EOLhyphen"/>vines at Westminster be confirmed for Three yeares by Act of Parliament.</hi>
+               </p>
+               <p>
+                  <hi>And will by Act of Parliament confirme for Three yeares the Directory for the publique worship of God in the Kingdomes of England and Ireland, and Dominion of Wales.</hi>
+               </p>
+               <pb n="2" facs="tcp:116871:3"/>
+               <p>
+                  <hi>And will likewise confirme for Three yeares by Act of Parliament the forme of Church Government, which yee have presented to Him, to be used for the Churches of England and Ireland, and Dominion of Wales; Provided, that His Majesty, and those of His judgement, or any other who cannot in Conscience submit thereunto, be not in the meane time obliged to comply with the same government or forme of Wor<g ref="char:EOLhyphen"/>ship, but have free practice of their owne profession. And that a free Consultation and debate be had with the Assembly of Divines of Westminster in the meane time, (20 of His Majesties nomination being added unto them) whereby it may be determined by His Majesty and His two Houses of Parliament how the said Church-Government and forme of publique Worship after the said time may be settled, or sooner, if diffe<g ref="char:EOLhyphen"/>rencs may be agreed. And how also Reformation of Religion may be settled within the Kingdomes of England and Ireland, and Dominion of Wales. And the Articles of Christian Religion now delivered to Him may in like manner be then considered of and determined, and care taken for the ease of tender consciences.</hi>
+               </p>
+               <p>
+                  <hi>And concerning the Bishops Lands and Revenues, His Majesty considering that during the troublesome times divers of His Subjects have made contracts and purcha<g ref="char:EOLhyphen"/>ses, and divers have disbursed great sums of monies upon security and engagement of those Lands; His Maje<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ty for their satisfaction, will consent to an Act or Acts of Par<g ref="char:EOLhyphen"/>liament, whereby legall Estates for Lives or for Yeares (at their choice) not exceeding 90 yeares shall be made of those Lands towards the satisfaction of the said Purchasers Contractors, and others to whom they are ingaged, at the old Rents, or some other mo<g ref="char:EOLhyphen"/>derate Rent, whereby they may receive satisfaction.</hi>
+               </p>
+               <p>
+                  <hi>And in case such Lease shall not satisfie, His Majesty will propound and consent to some other way, for their further satisfaction.</hi>
+               </p>
+               <p>
+                  <hi>Provided, that the propriety and inheritance of those Lands may still remaine and continue to the Church and Church-men respectively according to the pious intentions of the Doners and Founders thereof: And the rest that shall be reserved to be for their maintenance.</hi>
+               </p>
+               <p>
+                  <hi>His Majesty will give His Royall Assent for the better observation of the Lords day; For suppressing of Innovation, in Churches and Chappels, in and about the Worship of God, and for the better advancement of the Preaching of Gods holy Word in all parts of the Kingdome. And to an Act against enjoying Pluralities of Benefices by Spirituall persons, and Nonresidency. And to an Act for regulating and reforming both Ʋniversities, and the Colledges of Westminster, Winchester, and Eaton.</hi>
+               </p>
+               <p>
+                  <hi>His Majesty will Consent to an Act for the better discovery and speedy conviction of Popish Recusants, as is desired in your Propositions; And also to an Act for the Edu<g ref="char:EOLhyphen"/>cation of the Children of Papists by Protestants in the Protestant Religion.</hi>
+               </p>
+               <p>
+                  <hi>As also to an Act for the true levying of the penalties against Papists, to be levied and disposed in such manner as both Houses shall agree on, and as is proposed on his Ma<g ref="char:EOLhyphen"/>jesties behalfe.</hi>
+               </p>
+               <p>
+                  <hi>And also to an Act to prevent the practises of Papists against the State. And for
+<pb n="3" facs="tcp:116871:3"/>putting the Lawes in execution. And for a stricter course to prevent hearing and say<g ref="char:EOLhyphen"/>ing of Masse.</hi>
+               </p>
+               <p>
+                  <hi>But as to the Covenant, His Majesty is not yet therein satisfied that He can either signe or sweare it, or consent to impose it on the Consciences of others. Nor doth con<g ref="char:EOLhyphen"/>ceive it proper or usefull at this time to be insisted on.</hi>
+               </p>
+               <p>
+                  <hi>Touching the Militia, His Majesty conceives that your Proposition demands a far larger power over the Persons and Estates of His Subjects, then hath ever hitherto been warranted by the Lawes and Statutes of this Realme; yet considering the pre<g ref="char:EOLhyphen"/>sent distractions require more, and trusting in His two Houses of Parliament that they will make no further use of the power therein mentioned, after the present distempers setled, then shall be agreeable to the legal exercise thereof in times past, or just necessity shall require, His Majesty will consent to an Act of Parliament.</hi>
+               </p>
+               <p>
+                  <hi>That the Lords and Commons in Parliament of England now assembled, or hereafter to be assembled. or such as they shall appoint during the space of</hi> 10 <hi>yeares, shall Arme, Traine, and Discipline, or cause to be Armed, Trained, or Disciplined, all the Forces of the Kingdomes of England and Ireland, and Dominion of Wales, the Isles of Gernesey and Jersey, and the Towne of Barwick upon Tweed, already raised, both for Sea and Land service, And shall from time to time during the space of</hi> 10 <hi>yeares raise, levy, arme, traine and discipline, or cause to be raised, levied, ar<g ref="char:EOLhyphen"/>med, trained and disciplined any other Forces for Land and Sea service in the King<g ref="char:EOLhyphen"/>domes: Dominions, and places aforesaid, as in their judgements they shall from time to time during the said space of</hi> 10 <hi>yeares thinke fit to appoint. And that neither the King, His Heires or Successours, or any other but such as shall act by the Authority, or approbation of the said Lords and Commons, shall during the said space of</hi> 10 <hi>yeares exercise any of the powers aforesaid.</hi>
+               </p>
+               <p>
+                  <hi>That Monies be raised and levied for the maintenance and use of the said Forces for Land service, and of the Navy and Forces for Sea service, in such sort, and by such wayes and meanes as the said Lords and Commons shall from time to time du<g ref="char:EOLhyphen"/>ring the said space of</hi> 10 <hi>yeares think fit and appoint, and not otherwise.</hi>
+               </p>
+               <p>
+                  <hi>That all the said Forces both for Land and Sea service so raised or levied, or to be raised or levied; And also the Admiralty and Navy shall from time to time during the said space of</hi> 10 <hi>yeares be imployed, managed, ordered and disposed by the Lords and Commons in such sort, and by such wayes and meanes as they shall thinke fit and appoynt, and not otherwise.</hi>
+               </p>
+               <p>
+                  <hi>And the said Lords and Commons, or such as they shall appoynt, during the said space of ten yeares shall have power.</hi>
+               </p>
+               <p>TO suppresse all Forces raised, or to be raised, without authority and consent of the said Lords and Commons, to the disturbance of the pub<g ref="char:EOLhyphen"/>lick
+<pb n="4" facs="tcp:116871:4"/>lique Peace of the Kingdomes of <hi>England</hi> and <hi>Ireland,</hi> Dominion of <hi>Wales,</hi> the Isles of <hi>Gernsey</hi> and <hi>Jersey,</hi> and the Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> or any of them.</p>
+               <p n="2">2 To suppresse any forain Forces who shall invade, or indevour to Invade the Kingdomes of <hi>England</hi> and <hi>Ireland,</hi> Dominion of <hi>Wales,</hi> the Isles of <hi>Gern<g ref="char:EOLhyphen"/>sey</hi> and <hi>Jersey,</hi> and the Town of <hi>Barwick</hi> upon <hi>Tweed,</hi> or any of them.</p>
+               <p>And after the expiration of the said ten years, neither the King, His heires or Successors, or any person or persons by colour or pretence of any Commis<g ref="char:EOLhyphen"/>sion, power, deputation, or authority to be derived from the King, his Heires or Successors, or any of them, shall without the consent of the said Lords and Commons, raise, arme, train, discipline, imploy, order, manage, disband, or dis<g ref="char:EOLhyphen"/>pose any the Forces by Sea or Land, of the Kingdoms of <hi>England</hi> and <hi>Ireland,</hi> the Dominion of <hi>Wales,</hi> Isles of <hi>Gernsey</hi> and <hi>Jersey,</hi> and the Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> Nor exercise any of the said powers or authorities herein before mentioned, and expressed to be during the space of ten years, in the said Lords and Commons. Nor do any act, or any thing concerning the execution of the said powers or authorities, or any of them, without the consent of the said Lords and Commons first had and obtained.</p>
+               <p>And with the same proviso's for saving the ordinary Legall power of Offi<g ref="char:EOLhyphen"/>cers of Justice, not being Military Officers, as is set down in your proposi<g ref="char:EOLhyphen"/>tions.</p>
+               <p>And with a Declaration, That if any persons shall be gathered and assem<g ref="char:EOLhyphen"/>bled together, in a War-like manner, or otherwise, to the number of 30 per<g ref="char:EOLhyphen"/>sons, and shall not forthwith disperse themselves, being required thereto by the said Lords and Commons, or command from them, or any by them, espe<g ref="char:EOLhyphen"/>cially authorized for that purpose; Then such person or persons not so disper<g ref="char:EOLhyphen"/>sing themselves, shall be guilty, and incur the paines of High Treason; being first declared guilty of such offence, by the said Lords and Commons: Any Commission under the Great Seal, or other Warrant to the contrary, not<g ref="char:EOLhyphen"/>withstanding. And he or they that shall so offend herein, to be uncapable of any pardon from his Majesty, his Heires or Successors.</p>
+               <p>And likewise that it be provided that the City of <hi>London</hi> shall have and en<g ref="char:EOLhyphen"/>joy all their Rights, Liberties, &amp;c. in raising and imploying the Forces of that City, in such sort as is mentioned in the said proposition.</p>
+            </div>
+            <div type="part">
+               <head>With these Proviso's following, to be inserted in the said Act.</head>
+               <p n="1">1 THat none be compelled to serve in the War against their wils, but in case of comming in of strange enemies into this Kingdome.</p>
+               <p>And that the powers above mentioned, or concerning the Land Forces, other then for keeping up, and maintenance of Forts and Garrisons, and the keeping up, maintaining, and pay of this present Army, so long as it shall
+<pb n="5" facs="tcp:116871:4"/>be thought fit by both Houses of Parliament, be exercised to no other purpo<g ref="char:EOLhyphen"/>ses then to the suppressing of Forces raised or to be raised, without authority and consent of the said Lords and Commons as aforesaid, or for suppressing of any Forraine Forces which shall Invade, or indeavour to Invade the King<g ref="char:EOLhyphen"/>domes, Dominions, or places aforesaid.</p>
+               <p>And that the monies bee raised by generall, and equall Taxations, saving that Tonnage and Poundage, and such imposts as have been-applyed to the Navy, and be raised as hath been usuall.</p>
+               <p>And that all Patents, Commissions, and other Acts concerning the pre<g ref="char:EOLhyphen"/>misses, be made and Acted in His Majesties name by Warrant, signed by the Lords and Commons, and such other as they shall authorise for that purpose.</p>
+            </div>
+            <div type="part">
+               <p>
+                  <hi>If it shall be made satisfactory to His two Houses to have the Militia, and powers thereupon depending, during the whole time of His Majesties Reigne, rather then for the space of ten yeares, His Majesty gives them the election.</hi>
+               </p>
+               <p>TOuching <hi>Ireland,</hi> His Majesty having in two preceding propositions given His consent concerning the Church &amp; the Militia there in all things an in <hi>England:</hi> As to all other matters relating to the Kingdome, after advice with His two Houses, He will leave it to their determination, and give His consent accordingly, as is herein hereafter expressed.</p>
+               <p>Touching publicke debts, His Majesty will give consent to such an Act for raising of monies by generall and equall Taxations, for the payment and sa<g ref="char:EOLhyphen"/>tisfying the Arrears of the Army publick debts and engagements of the King<g ref="char:EOLhyphen"/>dome, as shall be agreed on by both Houses of Parliament, and shall be audited and ascertained by them, or such persons as they shall appoint, within the space of 12 moneths, after passing of an Act for the same.</p>
+               <p>His Majesty will consent to an Act, that during the said space of 10 yeares the Lord Chancellour, or Lord Keeper, Commissioners of the Great Seale, or Treasury, Lord Warden of the Cinque ports, Chancellour of the Exchequer and Dutchy, Secretaries of State, Master of the Rolls, Judges of both Benches, and Barons of the Exchequer of <hi>England,</hi> be nominated by both Houses of the Parliament of <hi>England</hi> to continue <hi>quam diu se bone gesserint:</hi> And in the in<g ref="char:EOLhyphen"/>tervals of Parliament, by such others as they shall authorize for that purpose.</p>
+               <p>His Majesty will consent that the Militia of the City of <hi>London</hi> and Liber<g ref="char:EOLhyphen"/>ties thereof, during the space of ten years, may be in the ordering and Govern<g ref="char:EOLhyphen"/>ment of the Lord Mayor, Aldermen, and Commons in the Common-councell Assembled, or such as they shall from time to time appoint, (whereof the Lord Mayor and Sheriffes for the time being, to be three) to be imployed and directed from time to time, during the said space of ten years, in such manner as shall be agreed upon, and appointed by both Houses of Parliament. And that no Citizen of the City of <hi>London,</hi> nor any of the Officers of the said City
+<pb n="6" facs="tcp:116871:5"/>shall be drawn forth, or compelled to go out of the said City or Liberties ther<g ref="char:EOLhyphen"/>of, for Military service, without their own free consent.</p>
+               <p>That an Act be passed for granting and confirming the Charters, Customes, Liberties, and Franchises of the City of <hi>London,</hi> notwithstanding any <hi>Nonuser, misuser,</hi> or <hi>Abuser.</hi>
+               </p>
+               <p>And that during the said ten years, the Tower of <hi>London</hi> may be in the Go<g ref="char:EOLhyphen"/>vernment of the City of <hi>London,</hi> and the cheif Officers and Governour from time to time, during the said space to be nominated, and removeable by the Common-councell, as are desired in your Propositions,</p>
+               <p>His Majesty having thus far expressed His consent for the present satisfacti<g ref="char:EOLhyphen"/>on, and the security of His two Houses of Parliament, and those that have ad<g ref="char:EOLhyphen"/>hered unto them, touching your foure first Propositions, and other the parti<g ref="char:EOLhyphen"/>culars before specified: As to all the rest of your Propositions delivered to Him at <hi>Hampton Court,</hi> (not referring to those heads) and to that of the Court of Wards, since delivered; As also to the remaining Propositions con<g ref="char:EOLhyphen"/>cerning <hi>Ireland;</hi> His Majesty desires onely when He shall come to <hi>VVestmin<g ref="char:EOLhyphen"/>ster</hi> Personally to advise with His two Houses, and to deliver His opinion, and the reason of it; which being done, He will leave the whole matter of these remaining Propositions to the determination of His two Houses, which shall prevaile with Him for His consent accordingly.</p>
+               <p>And His Majesty doth (for His owne particular) onely propose that He may have Liberty to repaire forthwith to <hi>Westminster,</hi> and be restored to a condition of absolute freedome and safety, (a thing which He shall never de<g ref="char:EOLhyphen"/>ny to any of his Subjects,) and to the possession of His Lands and Revenues; And that an Act of Oblivion, and Indempnity may passe, to extend to all per<g ref="char:EOLhyphen"/>sons, for all matters relating to the late unhappy differences; which being a<g ref="char:EOLhyphen"/>greed by his two Houses of Parliament, His Majesty will be ready to make these his Concessions binding, by giving them the force of Laws by His Roy<g ref="char:EOLhyphen"/>all Assent.</p>
+            </div>
+            <div type="Parliamentary_resolution">
+               <opener>
+                  <dateline>
+                     <date>Die Lunae Octobr. 2. 1648.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>REsolved by the Lords and Commons in Parliament As<g ref="char:EOLhyphen"/>sembled,</hi>
+               </p>
+               <p>That they are not satisfied in the Propositions made by his Ma<g ref="char:EOLhyphen"/>jesty in his Letter. And that a Letter be sent to the Commissioners in the Isle of Wight, to acquaint them that the Houses do well ap<g ref="char:EOLhyphen"/>prove of their proceedings, and doe give them thanks for their great care and paines in managing of this important and weighty businesse; requiring them still to proceed, and act punctually ac<g ref="char:EOLhyphen"/>cording to their Instructions.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
